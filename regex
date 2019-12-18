@@ -1,3 +1,4 @@
+###########################################
 . => any single char
 + => one or more => aa aaab abc aaac bbc
 * => more or full => `
@@ -6,3 +7,4 @@ $ => end of the line
 [] => range of given char [a-f0-5], [abcdef]
 () => or condition -- (gmail|yahoo|hotmail)
 {} => limit
+###########################################
